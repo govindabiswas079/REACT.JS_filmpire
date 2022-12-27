@@ -1,0 +1,4 @@
+const tmdbApiKey = '689c43ca599c543b14421bdc94e4e31f'; //api key
+//eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI2ODljNDNjYTU5OWM1NDNiMTQ0MjFiZGM5NGU0ZTMxZiIsInN1YiI6IjYzNGE1MDk1ZTI2M2JiMDA3YzI4MTQ4NiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.UJU-BJvni0qj8FvjDY1dR-Xm_94XoiR_HYABUWbge3Q //API Read Access Token (v4 auth)
+
+// https://api.themoviedb.org/3/movie/550?api_key=689c43ca599c543b14421bdc94e4e31f //Example API Request
